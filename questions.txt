@@ -1,0 +1,63 @@
+Question: What relational operator means greater than or equal to?
+A. >/B. >=/C. =>/D. <
+Correct answer: B
+
+Question: What two values does a bool variable allow?
+A.0 and 1/B.True or false/C.Yes and no/D.1 and 2
+Correct answer: B
+
+Question: Which relational expression (where x is 4 and y is 8) is true?
+A. x = y/B. x > y/C. x < = y/D. x >= y
+Correct answer: C
+
+Question: If we place an if statement within an if statement, we are creating a 
+A. If-Then-Else statement/B. Multiway branch/C. If-Then-Else-If statement/D. Nested control structure
+Correct answer: D
+
+Question: The && and || operators are
+A. Binary operators/B. Unary operators/C. Secondary operators/D. Primary operators
+Correct answer: A
+
+Question: To find out if either the test grade is an A or the quiz grade is an A we would write the expression
+A. testGrade = `A' || quizGrade = `A'/B. testGrade = `A' && quizGrade = `A'/C. testGrade == `A' && quizGrade == `A'/D. testGrade ==`A' || quizGrade == `A'
+Correct answer: D
+
+Question: Which two pairs of expressions are equivalent?
+A. !(a == b) and a != b/B. !(a == b) and a =! B/C. (a == b)! and a != b/D. (a == b)! and a =! B
+Correct answer: A
+
+Question: Which operator has the lowest precedence?
+A. &&/B. ==/C. ||/D. =
+Correct answer: D
+
+Question: An assertion that must be true before a module is executed for the module to execute correctly is a
+A. Postcondition/B. Precondition/C. Priorcondition/D. Subsequentcondition
+Correct answer: B
+
+Question: The While statement is different from the If statement because
+A. It is a looping structure/B. It is used to repeat a course of action/C. The statement is either skipped, executed once, or executed over and over/D. All of the above
+Correct answer: D
+
+Question: What are the two major types of loops?
+A. Count-controlled loops and event-controlled loops/B. Sentinel-controlled loops and end-of-file-Controlled loops/C. Sentinel-controlled loops and flag-controlled loops/D. Count-controlled loops and flag-controlled loops
+Correct answer: A
+
+Question: A While statement is a looping construct that allows a program to repeat a statement as long as the value on an expression is
+A. False/B. True/C. Positive/D. Negative
+Correct answer: B
+
+Question: What are the phases of loop execution?
+A. Entry, test, exit/B. Entry, iteration, test/C. Entry, iteration, test, exit/D. Entry, entry, iteration, exit
+Correct answer: C
+
+Question: Event-controlled loops repeat until
+A. something happens within the loop/B. the specified number of times is reached/C. the statement has been executed 25 times/D. the statement is false
+Correct answer: A
+
+Question: Event-controlled loops repeat until
+A. something happens within the loop/B. the specified number of times is reached/C. the statement has been executed 25 times/D. the statement is false
+Correct answer: B
+
+Question: The condition that causes a loop to be exited is the 
+A. exit the loop condition/B. termination condition/C. conclude condition/D. execution condition
+Correct answer: B
